@@ -1,0 +1,8 @@
+Flask
+numpy
+gdown
+opencv-python-headless
+tensorflow
+scikit-learn
+Werkzeug
+Pillow
